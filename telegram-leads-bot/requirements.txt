@@ -1,4 +1,0 @@
-telethon
-pandas
-python-dateutil
-requests
