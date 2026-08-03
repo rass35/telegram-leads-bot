@@ -47,7 +47,7 @@ DEFAULT_SESSION = "session_default"
 MEMBERS_CSV = "membros_extraidos.csv"
 RESULTS_CSV = "resultado_adicoes.csv"
 CHECKPOINT_FILE = "checkpoint.json"
-REPO_URL = "https://raw.githubusercontent.com/SEU_USUARIO/telegram-leads-bot/main"
+REPO_URL = "https://raw.githubusercontent.com/https://rass35.github.io/telegram-leads-bot//telegram-leads-bot/main"
 
 def check_for_updates():
     """Verifica se há uma versão mais recente disponível."""
