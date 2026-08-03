@@ -22,7 +22,7 @@ cd $HOME/TelegramLeadsBot
 
 # Baixa arquivos do repositório
 echo "Baixando arquivos..."
-git clone https://github.com/SEU_USUARIO/telegram-leads-bot.git .
+git clone https://github.com/rass35/telegram-leads-bot.git .
 chmod +x install.sh update.sh
 
 # Instala dependências Python
